@@ -5,10 +5,13 @@ El repositorio **no incluye el juego**: solo el parche IPS que convierte el jueg
 
 Versión traducida (v1.0) en openMSX, con un Sony HB-F500 (MSX2 japonés).
 
+| | 
+|---|
+| ![Pantalla de título](capturas/cover.jpg) |
+| Portada del juego |
+
 | | |
 |---|---|
-| ![Pantalla de título](capturas/cover.jpg) | ![Pantalla de título](capturas/captura_1.png)  |
-| Portada del juego | Pantalla de título |
 | ![Pantalla de título](capturas/captura_1.png) | ![Primera aparición de Hyakki](capturas/captura_2.png) |
 | Pantalla de título | Primera aparición de Hyakki |
 | ![Espacio en rojo](capturas/captura_3.png) | ![Belgarder](capturas/captura_4.png) |
