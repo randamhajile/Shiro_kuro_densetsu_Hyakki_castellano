@@ -8,7 +8,7 @@ Versión traducida (v1.0) en openMSX, con un Sony HB-F500 (MSX2 japonés).
 | | 
 |---|
 | ![Pantalla de título](capturas/cover.jpg) |
-| Portada del juego |
+| Portada del juego en la edición de cinta de cassete|
 
 | | |
 |---|---|
