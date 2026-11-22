@@ -11,6 +11,8 @@ Versión traducida (v1.0) en openMSX, con un Sony HB-F500 (MSX2 japonés).
 | Pantalla de título | Primera aparición de Hyakki |
 | ![Espacio en rojo](capturas/captura_3.png) | ![Belgarder](capturas/captura_4.png) |
 | Espacio en rojo | Belgarder |
+| ![Espacio en rojo](capturas/captura_3.png) |
+| Espacio en rojo |
 
 ## Qué necesitas
 
