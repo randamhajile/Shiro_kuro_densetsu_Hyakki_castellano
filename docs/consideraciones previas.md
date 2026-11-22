@@ -4,4 +4,4 @@ Recordad que este juego es para MSX1, pero esta versión traducida solo funciona
 
 Está programado en MSX-BASIC, así que los gráficos se cargan como en la vieja escuela de las aventuras conversacionales, dibujándose a medida que juegas, no vienen hechos previamente. Los que hayan jugado a las aventuras conversacionales como El Quijote o La Aventura original sabrán bien de lo que hablo.
 
-El código del juego no incluye música, pero sí tiene algunos efectos de sonido en ciertos momentos. Como ya indico en [`un poco de contexto.md`](un poco de contexto.md), los programadores originales compusieron una banda sonora para escucharla aparte mientras se juega, y esa es la opción que se recomienda.
+El código del juego no incluye música, pero sí tiene algunos efectos de sonido en ciertos momentos. Como ya indico en [`un poco de contexto`](<un poco de contexto.md>), los programadores originales compusieron una banda sonora para escucharla aparte mientras se juega, y esa es la opción que se recomienda.
