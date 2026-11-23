@@ -4,7 +4,7 @@
 - *Shiro to kuro no densetsu: Rinne tensei hen* (1986)
 - *Shiro to kuro no densetsu: Asuka hen* (1987)
 
-Hubo planes para hacer una cuarta y última entrega, *Shiro to kuro no densetsu: Harmagedon hen*, pero finalmente se cambió por hacer una serie de obras derivadas. Aunque cabe decir que en 1989 apareció para el ordenador PC8801 el cierre definitivo de la franquicia en forma de reboot con el título *Shiro to kuro no densetsu: Destruction* que apareció en dos entregas. 
+Hubo planes para hacer una cuarta y última entrega, *Shiro to kuro no densetsu: Harmagedon hen*, pero finalmente se cambió por hacer una serie de obras derivadas. Aunque cabe decir que en 1989 apareció para el ordenador PC8801 el cierre definitivo de la franquicia en forma de reboot con el título *Destruction* que apareció en dos entregas, *Destruction Jōkan* y *Destruction Gekan*. 
 
 Ahora bien, si hablamos del juego que nos ocupa ahora, *Shiro to kuro no densetsu: Hyakki hen*, nos encontramos con que salió a la venta en formato cinta de casete; en concreto consistía en tres cintas, dos con el juego y una con la banda sonora del juego. Por tanto, la idea era jugar con la cinta de la banda sonora reproduciéndose aparte en cualquier aparato de música que tuviera el usuario en casa. El juego teóricamente daba instrucciones de cuándo era el momento de reproducir la cinta de música y qué tema había que reproducir. Y digo “teóricamente” porque la versión en cinta del juego actualmente es *lost media* y no hay forma de encontrarla.
 
