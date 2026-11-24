@@ -8,3 +8,4 @@ Los títulos de los capítulos y los nombres de las opciones se han adaptado a l
 - Pantallas de fin de juego: todos los finales malos vuelven al menú inicial. En el original se quedaban colgados o iban a grabar la partida.
 - Capítulo 5: Se han corregido dos fallos del original: una espera de tecla mal escrita y el error “RETURN without GOSUB”.
 - Prólogo: el menú inicial está centrado y la portada del libro lleva el subtítulo “La leyenda de la luz y la oscuridad” en dos líneas.
+- Correcciones en los títulos de crédito finales y normalización en los antropónimos
