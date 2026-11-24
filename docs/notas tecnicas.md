@@ -9,3 +9,4 @@ Los títulos de los capítulos y los nombres de las opciones se han adaptado a l
 - Capítulo 5: Se han corregido dos fallos del original: una espera de tecla mal escrita y el error “RETURN without GOSUB”.
 - Prólogo: el menú inicial está centrado y la portada del libro lleva el subtítulo “La leyenda de la luz y la oscuridad” en dos líneas.
 - Correcciones en los títulos de crédito finales y normalización en los antropónimos
+- Uno de los personajes tenía el nombre de "Mejiro", pero en los títulos de crédito finales y en juegos posteriores tiene el nombre de "Meguro"; se ha utilizado este último nombre en la traducción
